@@ -1,0 +1,101 @@
+island_group,region,province,city
+luzon,ilocos,ilocos norte,laoag
+luzon,ilocos,ilocos sur,vigan
+luzon,ilocos,la union,san fernando
+luzon,ilocos,pangasinan,lingayen
+luzon,cagayan valley,batanes,basco
+luzon,cagayan valley,cagayan,tuguegarao city
+luzon,cagayan valley,isabela,ilagan
+luzon,cagayan valley,nueva vizcaya,bayombong
+luzon,cagayan valley,quirino,cabarroguis
+luzon,central luzon,aurora,baler
+luzon,central luzon,bataan,balanga
+luzon,central luzon,bulacan,malolos
+luzon,central luzon,pampanga,san fernando
+luzon,central luzon,nueva ecija,palayan
+luzon,central luzon,tarlac,tarlac
+luzon,central luzon,zambales,iba
+luzon,calabarzon,batangas,batangas
+luzon,calabarzon,cavite,trece martirez
+luzon,calabarzon,laguna,santa cruz
+luzon,calabarzon,quezon,lucena
+luzon,calabarzon,rizal,antipolo
+luzon,mimaropa,marinduque,boac
+luzon,mimaropa,occidental mindoro,mamburao
+luzon,mimaropa,oriental mindoro,calapan
+luzon,mimaropa,palawan,puerto princesa
+luzon,mimaropa,romblon,romblon
+luzon,bicol,albay,legazpi
+luzon,bicol,camarines norte,daet
+luzon,bicol,camarines sur,pili
+luzon,bicol,catanduanes,virac
+luzon,bicol,masbate,masbate
+luzon,bicol,sorsogon,sorsogon
+visayas,western visayas,aklan,kalibo
+visayas,western visayas,antique,san jose
+visayas,western visayas,capiz,roxas
+visayas,western visayas,guimaras,jordan
+visayas,western visayas,iloilo,iloilo
+visayas,western visayas,negros occidental,bacolod
+visayas,central visayas,bohol,tagbilaran
+visayas,central visayas,cebu,cebu
+visayas,central visayas,negros oriental,dumaguete
+visayas,central visayas,siquijor,siquijor
+visayas,eastern visayas,biliran,naval
+visayas,eastern visayas,eastern samar,borongan
+visayas,eastern visayas,leyte,tacloban
+visayas,eastern visayas,northern samar,catarman
+visayas,eastern visayas,southern leyte,maasin
+visayas,eastern visayas,western samar,catbalogan
+visayas,eastern visayas,samar,catbalogan
+mindanao,zamboanga,zamboanga del norte,dipolog
+mindanao,zamboanga,zamboanga del sur,pagadian
+mindanao,zamboanga,zamboanga sibugay,ipil
+mindanao,northern mindanao,bukidnon,malaybalay
+mindanao,northern mindanao,camiguin,mambajao
+mindanao,northern mindanao,lanao del norte,tubod
+mindanao,northern mindanao,misamis occidental,oroquieta
+mindanao,northern mindanao,misamis oriental,cagayan de oro
+mindanao,davao,compostela valley,nabunturan
+mindanao,davao,davao del norte,tagum
+mindanao,davao,davao del sur,digos
+mindanao,davao,davao oriental,mati
+mindanao,soccsksargen,cotabato,kidapawan
+mindanao,soccsksargen,sarangani,alabel
+mindanao,soccsksargen,south cotabato,koronadal
+mindanao,soccsksargen,sultan kudarat,isulan
+mindanao,caraga,agusan del norte,cabadbaran
+mindanao,caraga,agusan del sur,prosperidad
+mindanao,caraga,dinagat islands,san jose
+mindanao,caraga,surigao del norte,surigao
+mindanao,caraga,surigao del sur,tandag
+mindanao,armm,basilan,basilan
+mindanao,armm,lanao del sur,marawi
+mindanao,armm,maguindanao,shariff aguak
+mindanao,armm,maguindanao,maganoy
+mindanao,armm,shariff kabunsuan,datu odin sinsuat
+mindanao,armm,sulu,jolo
+mindanao,armm,tawi-tawi,panglima sugala
+mindanao,armm,tawi-tawi,balimbing
+luzon,car,abra,bangued
+luzon,car,apayao,kabugao
+luzon,car,benguet,la trinidad
+luzon,car,ifugao,lagawe
+luzon,car,kalinga,tabuk
+luzon,car,mt province,bontoc
+luzon,ncr,manila,kalookan
+luzon,ncr,manila,las pinas
+luzon,ncr,manila,makati
+luzon,ncr,manila,malabon
+luzon,ncr,manila,mandaluyong
+luzon,ncr,manila,manila
+luzon,ncr,manila,marikina
+luzon,ncr,manila,muntinlupa
+luzon,ncr,manila,navotas
+luzon,ncr,manila,paranaque
+luzon,ncr,manila,pasay
+luzon,ncr,manila,pasig
+luzon,ncr,manila,quezon city
+luzon,ncr,manila,san juan
+luzon,ncr,manila,taguig
+luzon,ncr,manila,valenzuela
